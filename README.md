@@ -3,6 +3,7 @@ Honkai impact 3rd summer event battle simulator
 [NGA link https://ngabbs.com/read.php?tid=22766855]
 
 ## Usage
+Import file to IDE.
 Run BH3_Summer_Event_Battle_simulator-master\src\com\company\Main.java
 
 On MAIN lines 22 and 23, change the variable names to the valkyrie in question.
